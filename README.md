@@ -5,6 +5,9 @@
 - 📫 How to reach me: nadinimo.desk@gmail.com or connect with me on https://www.linkedin.com/in/nadinisnamonica/ 
 - 😄 Pronouns: She/Her
 
+![Nadinimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinimo&show_icons=true&theme=radical)
+
+
 <!---
 nadinimo/nadinimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
