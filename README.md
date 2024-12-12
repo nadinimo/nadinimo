@@ -1,4 +1,4 @@
-## 💫 About Me:
+# 💫 About Me:
 
 - 👋 Hi, I’m Nadin Isna Monica  
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning
@@ -7,6 +7,7 @@
 - 📫 How to reach me: nadinimo.desk@gmail.com or connect with me on https://www.linkedin.com/in/nadinisnamonica/ 
 - 😄 Pronouns: She/Her
 
+# 📊 Statistics:
 ![Nadinimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinimo&show_icons=true&theme=radical)
 
 
