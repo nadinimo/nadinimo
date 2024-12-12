@@ -1,11 +1,7 @@
 # 💫 About Me:
-
 - 👩🏻‍💻 I'm Information Systems student at [Universitas Pembangunan Nasional Veteran Jawa Timur](https://www.upnjatim.ac.id/)
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, Bootstrap, advanced Python, SQL, TensorFlow, and data visualization tools like Tableau and Looker Studio
-
-# 📊 Statistics:
-![Nadinimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinimo&show_icons=true&theme=radical)
 
 # 👩🏻‍💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -30,10 +26,11 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-
-
 # 🛠 Skill:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nadinimo&layout=compact)
+
+# 📊 Statistics:
+![Nadinimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinimo&show_icons=true&theme=radical)
 
 <!---
 nadinimo/nadinimo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
