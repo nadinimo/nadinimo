@@ -1,3 +1,5 @@
+## 💫 About Me:
+
 - 👋 Hi, I’m Nadin Isna Monica  
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, Bootstrap, advanced Python, SQL, TensorFlow, and data visualization tools like Tableau and Looker Studio
