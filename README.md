@@ -1,11 +1,8 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m Nadin Isna Monica  
+- 👩🏻‍💻 I'm Information Systems student at [Universitas Pembangunan Nasional Veteran Jawa Timur](https://www.upnjatim.ac.id/)
 - 👀 I’m interested in Software Development, Data Science, and Machine Learning
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, Bootstrap, advanced Python, SQL, TensorFlow, and data visualization tools like Tableau and Looker Studio
-- 💞️ I’m looking to collaborate on data-driven projects, machine learning applications, or open-source software development
-- 📫 How to reach me: nadinimo.desk@gmail.com or connect with me on https://www.linkedin.com/in/nadinisnamonica/ 
-- 😄 Pronouns: She/Her
 
 # 📊 Statistics:
 ![Nadinimo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nadinimo&show_icons=true&theme=radical)
