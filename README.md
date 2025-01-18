@@ -1,6 +1,6 @@
 # 💫 About Me:
 - 👩🏻‍💻 I'm Information Systems student at [Universitas Pembangunan Nasional Veteran Jawa Timur](https://www.upnjatim.ac.id/)
-- 👀 I’m interested in Software Development, Data Science, and Machine Learning
+- 👀 I’m interested in Software Development and Quality Assurance
 - 🌱 I’m currently learning HTML, CSS, PHP, JavaScript, Bootstrap, advanced Python, SQL, TensorFlow, and data visualization tools like Tableau and Looker Studio
 
 # 👩🏻‍💻 Tech Stack:
